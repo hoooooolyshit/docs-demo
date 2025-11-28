@@ -4,6 +4,7 @@ import { handleMissingAssets } from './plugins/handle-missing-assets.mjs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/docs-demo/',
   srcDir: 'src',
   title: "我的精彩大脑",
   description: "A VitePress Site",
