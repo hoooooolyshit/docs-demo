@@ -1,0 +1,14 @@
+git clone 拉取仓库资源
+Star 收藏数
+README.md
+issue：讨论区
+license：开源协议
+
+寻找开源项目途径
+掘金
+条件筛选：Trending
+搜索：
+找百科大全：awesome xxx
+找例子：xxx sample
+找空项目架子：xxx starter / xxx boilerplate
+找教程：xxx tutorial
